@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1054186381804",
+    "firebase_url": "https://loginfacebook-7aac6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "loginfacebook-7aac6",
+    "storage_bucket": "loginfacebook-7aac6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054186381804:android:b78fa1f0f0c2bec40260c9",
+        "android_client_info": {
+          "package_name": "com.travelmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054186381804-mri2cb2jkau9qkb5oh48bu46m8rjl012.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLxvkYV5is3DxGI1b5PlicYqTug5gjrOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054186381804-mri2cb2jkau9qkb5oh48bu46m8rjl012.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

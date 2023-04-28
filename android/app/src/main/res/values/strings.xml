@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TravelMate</string>
+    <string name="facebook_app_id">935416084149521</string>
+    <string name="fb_login_protocol_scheme">fb935416084149521</string>
+    <string name="facebook_client_token">492d1b16ebda102e7e291e602fe6108d</string>
+</resources>
